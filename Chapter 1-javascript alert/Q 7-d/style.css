@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    background-color: yellowgreen;
+    color:sandybrown;
+}
+p{
+    font-size: 30px;
+    background-color: aquamarine;
+    color: silver;
+}
